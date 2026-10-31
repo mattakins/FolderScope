@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/logo.png" width="160" alt="FolderScope logo">
+</p>
+
 <h1 align="center">FolderScope</h1>
 
 <p align="center">
